@@ -1,2 +1,2 @@
 # Kotlin-Weather
-A weather app in kotlin
+A weather app in Kotlin
